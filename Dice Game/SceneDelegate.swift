@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Dice Game
 //
-//  Created by Joshua Wickster on 10/5/19.
+//  Created by Joshua Wickster on 8/5/19.
 //  Copyright © 2019 Joshua Wickster. All rights reserved.
 //
 
